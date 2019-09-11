@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 86753091,
+      "title": "Chicken Soup for the Soul - Savory Snacks",
+      "description": "4 MSL",
+      "availableSizes": ["XS"],
+      "style": "Made with real lamb. No by-product meals.",
+      "price": 5.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 13,
+      "sku": 86753092,
+      "title": "Chicken Soup for the Soul - Grain Free Sticks",
+      "description": "",
+      "availableSizes": ["M"],
+      "style": "#1 ingredient Real Duck. No wheat, corn or soy.",
+      "price": 6.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 14,
+      "sku": 86753093,
+      "title": "Chicken Soup for the Soul - Crunchy Bites",
+      "description": "",
+      "availableSizes": ["X", "L", "XL"],
+      "style": "Made with real peanut butter. Low calorie: only 7 calories per treat",
+      "price": 7.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 15,
+      "sku": 86753094,
+      "title": "Chicken Soup for the Soul - Bacon & Cheese",
+      "description": "Treino 2014",
+      "availableSizes": ["X", "L", "XL"],
+      "style": "Made with real bacon & cheese. Low calorie: only 6 calories per treat.",
+      "price": 9.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 16,
+      "sku": 86753095,
+      "title": "Purina - Busy Beggin Twisted Tiny Bones",
+      "description": "Treino 2014",
+      "availableSizes": ["XS"],
+      "style": "Meaty Marrow Made With Real Bacon. Easily Digestible",
+      "price": 5.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 17,
+      "sku": 86753096,
+      "title": "Purina - Busy Bone Mini",
+      "description": "Treino 2014",
+      "availableSizes": ["S"],
+      "style": "No Rawhide. Meaty Middle Made with Real Pork. Long-Lasting with a Twisted Shape for More Chewing Fun",
+      "price": 6.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 18,
+      "sku": 86753097,
+      "title": "Purina - Busy Beggin Twisted Cheddar & Hickory Smoke Flavors",
+      "description": "Treino 2014",
+      "availableSizes": ["S", "M"],
+      "style": "Meaty Marrow Made With Real Bacon. Long-Lasting Chew Twisted with Cheddar & Hickory Smoke Flavors. No Artificial FD&C Colors",
+      "price": 8.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 19,
+      "sku": 86753098,
+      "title": "Purina - Busy Bone Original",
+      "description": "Treino 2014",
+      "availableSizes": ["S", "M"],
+      "style": "Meaty Middle Made with Real Pork. Easily Digestible. Long-Lasting with a Twisted Shape for More Chewing Fun. Produced in USA facilities",
+      "price": 8.99,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
